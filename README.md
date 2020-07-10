@@ -2,4 +2,4 @@ pronouns: it/her
 
 site: https://oat.zone/
 
-![glue](glue.png "glue")
+![glue](https://github.com/oatmealine/oatmealine/raw/master/glue.png "glue")
