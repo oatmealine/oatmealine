@@ -3,5 +3,3 @@
 site: https://oat.zone/
 
 most of the time i post code on https://git.oat.zone/oat/ - however i sometimes use https://gitdab.com/oatmealine and https://gitlab.com/oatmealine
-
-![glue](https://github.com/oatmealine/oatmealine/raw/master/glue.png "glue")
